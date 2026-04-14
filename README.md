@@ -17,7 +17,7 @@ Uma aplicação web moderna desenvolvida com Laravel que permite aos usuários c
 
 🚀 A aplicação está disponível online:
 
-👉 **Acesse aqui:** [COLE_SEU_LINK_AQUI]
+👉 **Acesse aqui:** (https://chirper-bootcamp-main-iidvbv.free.laravel.cloud/)
 
 ---
 
@@ -69,11 +69,5 @@ Uma aplicação web moderna desenvolvida com Laravel que permite aos usuários c
 | `edit.blade.php` | Edição de posts |
 | `welcome.blade.php` | Página inicial |
 
----
 
-## ⚙️ Instalação e execução
 
-### 📥 1. Clonar o repositório
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
